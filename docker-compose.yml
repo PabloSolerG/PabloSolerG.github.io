@@ -17,5 +17,6 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      - .:/site
     environment:
       - JEKYLL_ENV=development
