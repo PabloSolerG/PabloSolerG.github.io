@@ -70,3 +70,11 @@ We leveraged ROS 2's Nav2 framework to create a 2D costmap from the LiDAR data a
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe width="840" height="472" src="https://www.youtube.com/embed/OpZmHFAkHi0?si=SzREpd_NxlHjWTJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+
+---
+
+#### Thanks to the Computer Vision Lab for letting us play with their robot!
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;margin-bottom: 20px">
+  <img src="/../assets/img/walkTheDog/robot_cart.jpg" alt="Robot-Cart" style="width: 80%;">
+</div>
