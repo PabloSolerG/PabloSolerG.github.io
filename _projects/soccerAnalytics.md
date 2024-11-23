@@ -13,13 +13,14 @@ This page presents a detailed soccer analytics study focusing on England's offen
 
 The report exclusively examines England's eight qualifying matches, detailing formations, passing patterns, and critical phases of play. Key aspects covered include:
 <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <div style="flex: 1; max-width: 50%;">
+  <div style="flex: 1; max-width: 100%;">
     <ul>
       <li>Offensive Patterns: Analysis of England's attacking build-up, use of the wings, and reliance on specific players like Harry Kane and Bukayo Saka for goals.</li>
       <li>Defensive Organization: Examination of England's defensive pressing, positioning, and transition dynamics to identify vulnerabilities.</li>
       <li>Set Pieces and Counterattacks: Evaluation of England's proficiency in set pieces and susceptibility to counterattacks, providing a tactical focus for opposing teams.</li>
     </ul>
   </div>
+</div>
 
 
 This page serves as a tactical guide, highlighting England's strengths and weaknesses with visualizations such as pass maps, heatmaps, and event transition probabilities. The findings aim to support teams in crafting effective game plans to counter England's dominance on the field.
