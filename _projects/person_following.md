@@ -9,6 +9,11 @@ category: ETH Zürich
 related_publications: false
 ---
 
+<div style="text-align: center;">
+  <img src="/../assets/img/walkTheDog/lab_logo.png" alt="Institutions" style="width: 100%;">
+</div>
+
+---
 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe width="820" height="400" src="https://www.youtube.com/embed/o3NmWS8RWTQ?si=zCl_xkICO6kXpygB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

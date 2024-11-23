@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Machine Learning on Microcontrollers
-description: Real-Time Hand Detection on MAX78000
+title: ML on Microcontrollers
+description: Real-Time Hand Detection on MAX78000 using Machine Learning
 related_posts: false
 img: assets/img/MLonMCU/preview_cut.gif
 importance: 2

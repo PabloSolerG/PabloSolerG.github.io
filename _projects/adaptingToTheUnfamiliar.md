@@ -3,11 +3,18 @@ layout: page
 title: Adapting to the Unfamiliar
 description: Leveraging Latent Space in Reinforcement Learning for Cross-Environment Generalization
 related_posts: false
-img: assets/img/DLProject/montezuma.gif
+img: assets/img/DLProject/dream_dmlab.gif
 importance: 2
 category: ETH Zürich
 related_publications: false
 ---
+
+<div style="text-align: center;">
+  <img src="/../assets/img/DLProject/lab_logo.png" alt="Institutions" style="width: 100%;">
+</div>
+
+---
+
  <img src="/../assets/img/DLProject/header.gif" alt="Overview" style="width: 100%;">
 
 ---

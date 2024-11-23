@@ -9,15 +9,21 @@ category: ETH Zürich
 related_publications: false
 ---
 
+<div style="text-align: center;">
+  <img src="/../assets/img/MultiGS/lab_logo.png" alt="Institutions" style="width: 100%;">
+</div>
+
+---
+
+I am aiming to submit this project for a publication in December of 2024. More information will follow then!
+
+---
+
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
     <iframe width="820" height="460" src="https://www.youtube.com/embed/mRDarTzl9aI?si=iFpn_CBUj9qql_SZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 --- 
-
-I am aiming to submit this project for a publication in December of 2024. More information will follow then!
-
----
 
 ### Abstract
 Reinforcement Learning (RL) has emerged as a powerful paradigm for developing autonomous navigation systems, being applied extensively within autonomous navigation. However, these systems are often limited to geometric representations due to the slow rendering times of realistic training environments. Consequently, navigation algorithms typically lack semantic perception of their surroundings, hindering their ability to make robust decisions. 

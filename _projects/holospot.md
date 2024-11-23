@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Holospot
+title: HoloSpot
 description: Intuitive Object Manipulation via Mixed Reality Drag-and-Drop
 related_posts: false
 img: assets/img/holospot/icon.png
@@ -10,7 +10,7 @@ related_publications: false
 ---
 
 <div style="text-align: center;">
-  <img src="/../assets/img/holospot/holospot.png" alt="HoloSpot" style="width: 80%;">
+  <img src="/../assets/img/holospot/lab_logo.png" alt="Institutions" style="width: 100%;">
 </div>
 
 ---
@@ -29,6 +29,12 @@ For more information check out our paper or our project page!
 
 <div style="text-align: center;">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/PN45oQVyvGA" frameborder="0" allowfullscreen></iframe>
+</div>
+
+---
+
+<div style="text-align: center;">
+  <img src="/../assets/img/holospot/holospot.png" alt="HoloSpot" style="width: 80%;">
 </div>
 
 ---
