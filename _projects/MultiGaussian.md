@@ -15,7 +15,7 @@ related_publications: false
 
 ---
 
-I am aiming to submit this project for a publication in December of 2024. More information will follow then!
+I am aiming to submit this project for a publication in February of 2025. More information will follow then!
 
 ---
 
@@ -25,8 +25,19 @@ I am aiming to submit this project for a publication in December of 2024. More i
 
 --- 
 
+<div style="text-align: center;">
+  <img src="/../assets/img/MultiGS/GS_Showcase_6.png" alt="MultiGS" style="width: 80%;">
+</div>
+---
+
 ### Abstract
 Reinforcement Learning (RL) has emerged as a powerful paradigm for developing autonomous navigation systems, being applied extensively within autonomous navigation. However, these systems are often limited to geometric representations due to the slow rendering times of realistic training environments. Consequently, navigation algorithms typically lack semantic perception of their surroundings, hindering their ability to make robust decisions. 
 Simultaneously, recent advancements in computer graphics have introduced Gaussian splatting, a technique capable of rendering high-quality, photorealistic scenes at unprecedented speeds. This thesis proposes a novel multi-domain Gaussian splatting implementation that integrates both visual and semantic information, creating a versatile and efficient framework for RL training in navigation tasks. Our method automatically converts simulated environments into semantically rich Gaussian splats, embedding crucial navigational data such as surface risk assessment and traversability directly into the representation. By achieving a 300-fold increase in rendering speed while enhancing semantic quality, this approach offers a promising solution to accelerate the training of RL agents in complex, realistic environments.
+
+---
+
+<div style="text-align: center;">
+  <img src="/../assets/img/MultiGS/GS_Pipeline_4.png" alt="MultiGS_Pipeline" style="width: 80%;">
+</div>
 
 ---

@@ -15,8 +15,13 @@ related_publications: false
 
 ---
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe width="820" height="400" src="https://www.youtube.com/embed/o3NmWS8RWTQ?si=zCl_xkICO6kXpygB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/o3NmWS8RWTQ?si=zCl_xkICO6kXpygB"
+    frameborder="0"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
 
 
@@ -72,9 +77,15 @@ We leveraged ROS 2's Nav2 framework to create a 2D costmap from the LiDAR data a
 ### More Results
 
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe width="840" height="472" src="https://www.youtube.com/embed/OpZmHFAkHi0?si=SzREpd_NxlHjWTJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe
+    src="https://www.youtube.com/embed/OpZmHFAkHi0?si=SzREpd_NxlHjWTJo"
+    frameborder="0"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+  ></iframe>
 </div>
+
 
 ---
 
